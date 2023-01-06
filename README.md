@@ -1,6 +1,6 @@
 # Qr Teknolojisi ile Kart Okuma Projesi
 
-### Proje Logosu
+- ### Proje Logosu:
 
 ![okut](https://user-images.githubusercontent.com/78684394/210931613-88830da6-6d26-43e1-a089-b26d5fc55c84.png)
 
