@@ -68,7 +68,7 @@ Proje İçeriği:
 
 Proje Slayt Dosyası Linki : https://docs.google.com/presentation/d/1DHlJDn6pGtzlkYEvHOU42DHDfdTtHgo2ux0cVPh2_9Y/edit?usp=sharing
 
-Android için apk : [app-apk.zip](https://github.com/GulzadeEvni/AndroidApp/files/10370425/app-apk.zip)
+Android için apk : https://drive.google.com/file/d/1R_WsU7MsvMQBBqS6Q_1OgFQYaEODiRdZ/view?usp=sharing
 
 Örnek giriş için:  Kullanıcı adı, “abcd@hotmail.com” Şifre, ”123456”
 
